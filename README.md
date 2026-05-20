@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **Smart Face Recognition Attendance System**
+- 🔭 Currently building **Smart and scalable infrastructure systems**
 - 🌱 Learning **AWS, Kubernetes, Terraform, Jenkins & DevOps**
 - 💻 Interested in **Cloud Computing, Automation, CI/CD and Scalable Systems**
 - 🎯 Goal: Become a skilled **DevOps / Cloud Engineer**
