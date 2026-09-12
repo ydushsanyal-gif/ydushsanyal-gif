@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ydush%20Sanyal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20%7C%20AWS%20%7C%20Docker%20%7C%20Kubernetes&descAlignY=58&descSize=18" />
 
 <h2 align="center">Hi 👋, I'm Ydush Sanyal</h2>
-<h3 align="center">DevOps & Cloud Enthusiast | AWS | Docker | Kubernetes | Jenkins | Python</h3>
+<h3 align="center">DevOps & Cloud Engineer | AWS | Docker | Kubernetes | Jenkins | Python</h3>
 
 ---
 
